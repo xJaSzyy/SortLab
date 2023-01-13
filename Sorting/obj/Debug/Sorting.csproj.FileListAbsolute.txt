@@ -1,0 +1,14 @@
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\obj\Debug\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\bin\Debug\Bogosort.dll
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\bin\Debug\Bogosort.xml
+C:\Users\Степан\Desktop\main\codes\Sorting\Sorting\obj\Debug\Sorting.csproj.CopyComplete

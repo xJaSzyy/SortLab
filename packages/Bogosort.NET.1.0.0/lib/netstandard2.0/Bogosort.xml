@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bogosort</name>
+    </assembly>
+    <members>
+        <member name="M:Bogosort.Bogosorter.Bogosort``1(System.Collections.Generic.IList{``0})">
+            <summary>
+            The best sorting algorithm ever created!
+            </summary>
+            <param name="list">The list you want to sort</param>
+            <typeparam name="T">An IComparable, usally int</typeparam>
+        </member>
+    </members>
+</doc>
